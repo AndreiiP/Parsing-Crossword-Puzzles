@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/event-loop": "^0.5.2",
+        "react/http-client": "^0.5.9",
+        "react/child-process": "^0.5.2"
+    }
+}
